@@ -32,7 +32,7 @@ Telegram
 Node JS
 NPM
 node-fetch
-node-telegram-bot-ap
+node-telegram-bot-api
 nodemon
 ```
 
