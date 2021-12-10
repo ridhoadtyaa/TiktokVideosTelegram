@@ -46,7 +46,6 @@ Say what the step will be
 
 ```
 git clone https://github.com/ridhoadtyaa/TiktokVideosTelegram.git
-nodemon
 ```
 
 Then
